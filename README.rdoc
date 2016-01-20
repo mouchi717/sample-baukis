@@ -1,0 +1,10 @@
+= Baukis
+
+Baukis is customer management system for corporate, written in Ruby on Rails.
+
+
+== Requirements
+
+* CentOS 6.5
+* Ruby 2.1.0
+* MySQL 5.6.28
